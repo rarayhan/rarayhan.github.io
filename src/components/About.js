@@ -11,20 +11,20 @@ const About = () => {
       period: 'Expected December 2025',
       description: 'Dissertation: "xAI for Wearable Systems: Predicting Behaviors, Monitoring Cognition, and Enhancing Performance"',
     },
-    {
-      degree: 'M.S. in Computer Science',
-      institution: 'Vanderbilt University',
-      location: 'Nashville, TN',
-      period: 'May 2020 – Dec 2023',
-      description: '',
-    },
-    {
-      degree: 'B.S. in Computer Science',
-      institution: 'Middle Tennessee State University',
-      location: 'Murfreesboro, TN',
-      period: 'Aug 2017 – May 2020',
-      description: '',
-    },
+   // {
+    //  degree: 'M.S. in Computer Science',
+    //  institution: 'Vanderbilt University',
+    //  location: 'Nashville, TN',
+   //   period: 'May 2020 – Dec 2023',
+   //   description: '',
+  //  },
+   // {
+     // degree: 'B.S. in Computer Science',
+    // institution: 'Middle Tennessee State University',
+    //  location: 'Murfreesboro, TN',
+     // period: 'Aug 2017 – May 2020',
+     // description: '',
+   // },
   ];
 
   return (

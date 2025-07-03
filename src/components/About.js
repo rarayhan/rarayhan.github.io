@@ -31,7 +31,7 @@ const About = () => {
     <Section
       id="about"
       title="About Me"
-      subtitle="Learn more about my background, education, and interests"
+      subtitle="2222Learn more about my background, education, and interests"
       className="bg-white"
     >
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-start">

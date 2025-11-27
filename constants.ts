@@ -22,10 +22,31 @@ export const PROFILE_DATA: Profile = {
   about: "I'm an undergraduate student in Software Engineering at Yangzhou University with a strong foundation in machine learning, software development, and human-centered AI. My work spans explainable AI, sensor-based modeling, and predictive analytics, with applications in healthcare, sports, and beyond.\n\nThe projects I've led range from developing ML models for behavior prediction and cognitive monitoring to building cross-platform applications and backend systems for real-time data processing. My experience spans computer vision, NLP, time-series analysis, and full-stack development.\n\nI'm passionate about bridging the gap between research and real-world applications, designing AI-driven solutions that are both powerful and accessible. Whether it's optimizing sports performance, improving health outcomes, or streamlining complex workflows, I focus on creating practical, interpretable, and user-friendly technology.\n\nOutside of work, I enjoy cooking, boxing, and exploring new restaurants. I'm fluent in English and have conversational skills in Hindi and Urdu.",
   
   location: "Yangzhou, Jiangsu, China",
-  email: "rupu00@live.com",
+  email: "ahmedrayhan570@yahoo.com",
   phone: "+86-19505274557",
   
-  socials: [],
+  socials: [
+    {
+      platform: "Instagram",
+      url: "https://instagram.com/irayhanbd", // Replace with your URL
+      icon: "Instagram"
+    },
+    {
+      platform: "WeChat",
+      url: "irayhanbd", // Replace with your ID or QR code link
+      icon: "MessageCircle" 
+    },
+    {
+      platform: "Facebook",
+      url: "https://facebook.com/irayhanbd", // Replace with your URL
+      icon: "Facebook"
+    },
+    {
+      platform: "LinkedIn",
+      url: "https://linkedin.com/irayhanbd", // Replace with your URL
+      icon: "Linkedin"
+    }
+  ],
 
   education: [
     {
@@ -57,7 +78,24 @@ export const PROFILE_DATA: Profile = {
     }
   ], 
 
-  skills: [],
+  skills: [
+    {
+      category: "Programming Languages",
+      items: ["HTML", "CSS", "JavaScript", "C", "C++", "Java", "XML", "PHP", "Python"]
+    },
+    {
+      category: "Data Science & Machine Learning",
+      items: ["NumPy", "Pandas", "PyTorch", "Scikit-learn", "SciPy", "Computer Vision", "Diffusion Models"]
+    },
+    {
+      category: "Web Development",
+      items: ["Django", "Bootstrap", "MySQL", "SQLite", "Scrapy", "BeautifulSoup", "Selenium", "Requests"]
+    },
+    {
+      category: "Research & Specialized Skills",
+      items: ["Project Management", "Research Methodology", "Technical Writing", "Canva", "Blogging", "SEO", "Google AdSense", "Amazon Affiliate"]
+    }
+  ],
 
   projects: [
     {

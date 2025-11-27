@@ -28,22 +28,22 @@ export const PROFILE_DATA: Profile = {
   socials: [
     {
       platform: "Instagram",
-      url: "https://instagram.com/irayhanbd", // Replace with your URL
+      url: "https://instagram.com", // Replace with your URL
       icon: "Instagram"
     },
     {
       platform: "WeChat",
-      url: "irayhanbd", // Replace with your ID or QR code link
+      url: "#", // Replace with your ID or QR code link
       icon: "MessageCircle" 
     },
     {
       platform: "Facebook",
-      url: "https://facebook.com/irayhanbd", // Replace with your URL
+      url: "https://facebook.com", // Replace with your URL
       icon: "Facebook"
     },
     {
       platform: "LinkedIn",
-      url: "https://linkedin.com/irayhanbd", // Replace with your URL
+      url: "https://linkedin.com", // Replace with your URL
       icon: "Linkedin"
     }
   ],

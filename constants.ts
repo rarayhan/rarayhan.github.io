@@ -28,22 +28,22 @@ export const PROFILE_DATA: Profile = {
   socials: [
     {
       platform: "Instagram",
-      url: "https://instagram.com", // Replace with your URL
+      url: "https://instagram.com/irayhanbd", // Replace with your URL
       icon: "Instagram"
     },
     {
       platform: "WeChat",
-      url: "#", // Replace with your ID or QR code link
+      url: "irayhanbd", // Replace with your ID or QR code link
       icon: "MessageCircle" 
     },
     {
       platform: "Facebook",
-      url: "https://facebook.com", // Replace with your URL
+      url: "https://facebook.com/irayhanbd", // Replace with your URL
       icon: "Facebook"
     },
     {
       platform: "LinkedIn",
-      url: "https://linkedin.com", // Replace with your URL
+      url: "www.linkedin.com/in/rayhan-ahmed-6a6b031b2", // Replace with your URL
       icon: "Linkedin"
     }
   ],
@@ -53,7 +53,7 @@ export const PROFILE_DATA: Profile = {
       degree: "BSc in Engineering",
       institution: "Yangzhou University, Yangzhou, Jiangsu, China",
       period: "Sept 2024 - Expected July 2028",
-      description: ""
+      description: "Major Software Engineering"
     },
     {
       degree: "Higher Secondary School Certificate (12th Standard)",
@@ -70,12 +70,12 @@ export const PROFILE_DATA: Profile = {
       period: "Sept 2024 - Present",
       description: "Assisting in research focused on xAI, wearable systems, and predictive modeling. Contributing to data collection, analysis, and the development of machine learning models for healthcare and sports applications."
     },
-    {
-      role: "Teaching Assistant",
-      company: "Yangzhou University",
-      period: "Sept 2024 - Present",
-      description: "Supporting faculty members in course delivery, grading assignments, and providing academic guidance to students in computer science and engineering modules."
-    }
+//     {
+ //      role: "Teaching Assistant",
+   //   company: "Yangzhou University",
+   //   period: "Sept 2024 - Present",
+    //  description: "Supporting faculty members in course delivery, grading assignments, and providing academic guidance to students in computer science and engineering modules."
+    //}
   ], 
 
   skills: [
@@ -142,9 +142,9 @@ export const PROFILE_DATA: Profile = {
       date: "China"
     },
     {
-      title: "Jiangsu Provincial Outstanding Student Award ",
+      title: "Jiangsu Provincial Outstanding Student Award 2025 ",
       description: "Awarded by Jiangsu Provincial Government",
-      date: "Jiangsu, China"
+      date: "Jiangsu, China."
     },
     {
       title: "3rd Prize, Yangzhou University Computer Design Competition",

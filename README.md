@@ -1,20 +1,52 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
 
-# Run and deploy your AI Studio app
+# Rayhan Ahmed | Personal Portfolio
 
-This contains everything you need to run your app locally.
+My personal portfolio website built with React,
+TypeScript, Vite, and Tailwind CSS.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1a4YIbboNfWUD9_668MiP-Rgkl6BXHou8
+## Technologies
+
+- React
+- TypeScript
+- Vite
+- Tailwind CSS
+- Lucide React
 
 ## Run Locally
 
-**Prerequisites:**  Node.js
+### Prerequisites
+- Node.js
+- npm
 
+### Installation
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+1. Clone the repository:
+
+git clone https://github.com/rarayhan/rarayhan.github.io.git
+
+2. Navigate to the project:
+
+cd rarayhan.github.io
+
+3. Install dependencies:
+
+npm install
+
+4. Start development server:
+
+npm run dev
+
+## Production Build
+
+npm run build
+
+## Deployment
+
+The portfolio is deployed using GitHub Pages
+and GitHub Actions.
+
+Website: https://rarayhan.github.io/
+
+## Author
+
+Rayhan Ahmed
